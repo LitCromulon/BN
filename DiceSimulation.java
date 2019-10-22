@@ -6,6 +6,7 @@ import java.util.Random;   // Needed for the Random class
    each different pair of doubles.
 */
 //this is a change to the file
+//this is another change to the file
 public class DiceSimulation
 {
    public static void main(String[] args)
