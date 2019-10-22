@@ -5,7 +5,7 @@ import java.util.Random;   // Needed for the Random class
    and counts the number of times doubles of are rolled for
    each different pair of doubles.
 */
-
+//this is a change to the file
 public class DiceSimulation
 {
    public static void main(String[] args)
